@@ -12,6 +12,7 @@ I mainly work on Final Fantasy XIV plugins and tools. Most of my current work us
 | [**AetherBags**](https://github.com/Zeffuro/AetherBags) | An inventory UI with custom categories and rule-based item filtering. | [![downloads](https://img.shields.io/endpoint?url=https://qzysathwfhebdai6xgauhz4q7m0mzmrf.lambda-url.us-east-1.on.aws/AetherBags&style=flat-square)](https://github.com/Zeffuro/AetherBags) |
 | [**NativeMeters**](https://github.com/Zeffuro/NativeMeters) | Customizable DPS meters built with FFXIV's native UI. | [![downloads](https://img.shields.io/github/downloads/Zeffuro/NativeMeters/total?label=downloads&style=flat-square)](https://github.com/Zeffuro/NativeMeters) |
 | [**MouseLock**](https://github.com/Zeffuro/MouseLock) | Keeps FFXIV in mouselook until you open something that needs the cursor. | [![downloads](https://img.shields.io/endpoint?url=https://qzysathwfhebdai6xgauhz4q7m0mzmrf.lambda-url.us-east-1.on.aws/MouseLock&style=flat-square)](https://github.com/Zeffuro/MouseLock) |
+| [**LiteShade**](https://github.com/Zeffuro/LiteShade) | Colour adjustments, GPose filters, optional depth of field and vignette. | [![downloads](https://img.shields.io/endpoint?url=https://qzysathwfhebdai6xgauhz4q7m0mzmrf.lambda-url.us-east-1.on.aws/LiteShade&style=flat-square)](https://github.com/Zeffuro/LiteShade) |
 
 AbilityAnts was originally made by attick. I took over maintenance later.
 
