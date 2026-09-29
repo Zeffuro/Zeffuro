@@ -30,4 +30,4 @@ I'm also part of the **[DelvUI](https://github.com/DelvUI/DelvUI)** team. Most o
 
 - **[fakegaming-bot](https://github.com/Zeffuro/fakegaming-bot)**: My personal Discord bot. It grew into a larger project with separate bot, API, and dashboard Docker containers.
 - **[zeff-boy](https://github.com/Zeffuro/zeff-boy)**: A multi-system emulator written in Rust. I started it to learn more about low-level programming and emulation.
-- **[The X-Files PC Enhancement Patch](https://github.com/Zeffuro/zeff-boy](https://github.com/Zeffuro/x-files-pc-enhancement-patch)**: Unofficial PC enhancement patch for The X-Files Game, with QuickTime replacement, windowed and borderless display, controller improvements, and compatibility fixes for modern Windows.
+- **[The X-Files PC Enhancement Patch](https://github.com/Zeffuro/x-files-pc-enhancement-patch)**: Unofficial PC enhancement patch for The X-Files Game, with QuickTime replacement, windowed and borderless display, controller improvements, and compatibility fixes for modern Windows.
